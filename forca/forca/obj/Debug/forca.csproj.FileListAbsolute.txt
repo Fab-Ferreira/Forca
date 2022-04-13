@@ -1,0 +1,8 @@
+U:\Projetos - TPA\forca\forca\bin\Debug\forca.exe.config
+U:\Projetos - TPA\forca\forca\bin\Debug\forca.exe
+U:\Projetos - TPA\forca\forca\bin\Debug\forca.pdb
+U:\Projetos - TPA\forca\forca\obj\Debug\forca.csprojResolveAssemblyReference.cache
+U:\Projetos - TPA\forca\forca\obj\Debug\forca.MainForm.resources
+U:\Projetos - TPA\forca\forca\obj\Debug\forca.csproj.GenerateResource.Cache
+U:\Projetos - TPA\forca\forca\obj\Debug\forca.exe
+U:\Projetos - TPA\forca\forca\obj\Debug\forca.pdb
